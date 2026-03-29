@@ -26,12 +26,12 @@ No apps to download. No manual sorting. Just put your waste in front of the syst
 
 <img src="./icons/title_2.png" alt="How It Works" width="400"/>
 
-<img src="./gra/tilda.png" alt="How It Works" width="600"/>
+<img src="./gra/tilda_x2.png" alt="How It Works" width="600"/>
 <br>
 <div align="center">
-  <img src="./gra/paper.png" alt="How It Works" width="200"/>
-  <img src="./gra/plastic.png" alt="How It Works" width="200"/>
-  <img src="./gra/metal.avif" alt="How It Works" width="200"/>
+  <img src="./gra/paper.png" alt="How It Works" width="50"/>
+  <img src="./gra/plastic.png" alt="How It Works" width="50"/>
+  <img src="./gra/metal.avif" alt="How It Works" width="50"/>
 </div>
 
 The process is completely seamless — from detection to classification in seconds.
