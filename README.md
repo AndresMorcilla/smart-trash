@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./icons/title_0.png" alt="What is Smart Trash?" width="600"/>
+<img src="./icons/title_0.png" alt="What is Smart Trash?" width="700"/>
 
 **Intelligent Recycling System**
 <br><br><br><br>
@@ -27,7 +27,7 @@ No apps to download. No manual sorting. Just put your waste in front of the syst
 <img src="./icons/title_2.png" alt="How It Works" width="400"/>
 
 <div align="center">
-  <img src="./gra/tilda_x2.png" alt="How It Works" width="600"/>
+  <img src="./gra/tilda_x2_2.png" alt="How It Works" width="600"/>
   <br>
   <img src="./gra/paper.png" alt="How It Works" width="200"/>
   <img src="./gra/plastic.png" alt="How It Works" width="200"/>
